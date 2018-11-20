@@ -2,4 +2,6 @@ There are a gazillion different ways to map precinct-level results. Here are fou
 
 The story uses the first map ("Heat map, no density adjustment"). Which map do *you* like best? Check out the mapping [code](https://github.com/underthecurve/four-ways-precinct-maps/blob/master/four_ways.ipynb) for more info. 
 
-Plus if you want even MORE info and data about the precinct results / shapefiles, check out the Baltimore Sun Data/Interactives team's [GitHub repo](https://github.com/baltimore-sun-data/maryland-2018-governor-precinct-map).
+And if you want even MORE info and data about the precinct results / shapefiles, check out the Baltimore Sun Data/Interactives team's [GitHub repo](https://github.com/baltimore-sun-data/maryland-2018-governor-precinct-map).
+
+All code in this repository is available under the [MIT License](https://opensource.org/licenses/MIT). The data files are available under the [Creative Commons Attribution 4.0 International](https://creativecommons.org/licenses/by/4.0/) (CC BY 4.0) license.
